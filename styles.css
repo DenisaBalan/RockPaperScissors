@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  color: rgb(0, 255, 179);
+  background-color: rgb(87, 6, 6);
+}
+
+#game {
+  text-align: center;
+}
+
+#result {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  color: aquamarine;
+  background-color: black;
+  border-radius: 25px ;
+  border: solid 0.52px rgb(166, 166, 166) ;
+  box-shadow: 5px 2px 4px rgb(166, 166, 166);
+}
